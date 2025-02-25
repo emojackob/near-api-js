@@ -1,6 +1,7 @@
 {
   "name": "@near-js/monorepo",
   "private": true,
+  "version": "5.0.1",
   "engines": {
     "node": ">=20.18.3",
     "pnpm": ">=10.4.1"
